@@ -73,6 +73,7 @@ body {
     gap: 100px;
     align-items: center;
     justify-content: center;
+    background: linear-gradient(to right, #fff4e6, #e0f7ff);
 }
 .hero-section > h1 {
     font-weight: 800;
@@ -160,6 +161,7 @@ body {
 .stories-section {
   padding: 60px 20px;
   text-align: center;
+  background: linear-gradient(to bottom, #fefefe, #ffeecf);
 }
 
 .stories-section h2 {
@@ -188,6 +190,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  
   gap: 20px;
 }
 
